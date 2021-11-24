@@ -1,6 +1,6 @@
 # Tribute Page
 
-## This is my first webpage created as part of the responsive web design course from freecodecamp.
+## This is my first webpage created as part of the responsive web design course from freecodecamp - A task set as pre-course material for the School of Code Bootcamp
 
 Here are some screenshots to preview the page:
 
